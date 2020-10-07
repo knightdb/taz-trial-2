@@ -728,8 +728,7 @@
  * following movement settings. If fewer factors are given than the
  * total number of extruders, the last value applies to the rest.
  */
-//#define DISTINCT_E_FACTORS LULZBOT_DISTINCT_E_FACTORS
-
+#define DISTINCT_E_FACTORS 
 /**
  * Default Axis Steps Per Unit (steps/mm)
  * Override with M92
